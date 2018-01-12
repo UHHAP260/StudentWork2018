@@ -1,12 +1,9 @@
 # StudentWork2018
 
-Studentss can upload work here.
+Students can upload material here.
 
-There will be folders/directories corresponding to each chapter in the textbook or other coding exercise. 
+Each of you can have a directory on your home computer in which you keep all material that you need to submit that you 'push' up to this repository. Just make sure that you pick some naming convention for your files and subdirectories that make it obvious what it contains to other people in the class.
 
-Here are some file name conventions:
-
-- Jupyter Notebooks: ex0202_name.ipynb --> exercise from chapter 2 number 2 by person
-- personal packages: pp02_name.py --> personal package for chapter 2 by person
-  
+Instructions:
+ 
 Uploading instructions to follow!
